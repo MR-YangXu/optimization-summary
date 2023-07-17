@@ -1,7 +1,7 @@
 # optimization-summary
 
 #### 介绍
-optimization-summary项目是一个项目优化系列总结的一个项目，目前做了首屏优化汇总
+optimization-summary项目是一个项目优化系列总结的一个项目，目前做了首屏优化汇总，项目日常脚本汇总
 
 #### 软件架构
 软件架构说明
